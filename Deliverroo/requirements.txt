@@ -8,3 +8,8 @@ node v 16
 npm install @react-navigation/native
 npx expo install react-native-screens react-native-safe-area-context
 npm install @react-navigation/native-stack
+
+# Tailwind -> Nativewind
+npm install nativewind
+npm install --save-dev tailwindcss@3.3.2
+npx tailwindcss init
