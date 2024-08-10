@@ -1,5 +1,10 @@
 # npx expo install
 # npx expo start
 expo init
-npm start
-node 16 => s => w
+npm start # => s => w
+node v 16
+
+# Navigations screens
+npm install @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native-stack
