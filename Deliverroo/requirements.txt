@@ -13,3 +13,6 @@ npm install @react-navigation/native-stack
 npm install nativewind
 npm install --save-dev tailwindcss@3.3.2
 npx tailwindcss init
+
+#  Heroicons
+npm i react-native-heroicons react-native-svg
