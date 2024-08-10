@@ -1,0 +1,5 @@
+# npx expo install
+# npx expo start
+expo init
+npm start
+node 16 => s => w
