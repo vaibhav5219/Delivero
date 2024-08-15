@@ -5,5 +5,8 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  corePlugins: {
+    preflight: false, // If using Tailwind CSS with React Native Web
+  },
 }
 

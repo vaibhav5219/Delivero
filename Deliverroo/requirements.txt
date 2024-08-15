@@ -16,3 +16,28 @@ npx tailwindcss init
 
 #  Heroicons
 npm i react-native-heroicons react-native-svg
+
+# Sanity
+npm install -g @sanity/cli
+sanity init --coupon sonny2022
+sanity start #
+
+# Step 1: Step 1: First, you have to need to open the command prompt and run this command.
+set-ExecutionPolicy RemoteSigned -Scope CurrentUser 
+# Step 2: Now you have to run the second command on your system. This command is:
+Get-ExecutionPolicy
+# Step 3: To view their policy, you need to run this command in your command prompt:
+Get-ExecutionPolicy -list
+ng serve
+
+npm i @sanity/client @sanity/image-url
+
+# Adding cors
+sanity cors add http://localhost:8081
+
+sanity deploy
+# https://deliverroo-sanity.sanity.studio/
+
+
+# For web
+npm expo install react-native-web react-dom @expo/metro-runtime --force
